@@ -1,7 +1,5 @@
 package
-{
-	import com.freshplanet.ui.ScrollableContainer;
-	
+{	
 	import flash.display.Loader;
 	import flash.display.Sprite;
 	import flash.display.StageAlign;
@@ -24,8 +22,6 @@ package
 	public class cameraUI_Test extends Sprite
 	{
 		public static var indent:Number = 0;
-		
-		private var _scrollableContainer:ScrollableContainer = null;
 
 		private var rotateDefaultBtn:Button;
 
